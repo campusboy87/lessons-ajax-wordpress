@@ -11,3 +11,4 @@
 - Урок 3 - [Ajax запросы во фронт-энде Wordpress](https://youtu.be/UujWRw1KjUI)
 - Урок 4 - [Защита при ajax запросах – безопасность Wordpress](https://youtu.be/OoyTfdHM_Aw)
 - Пример 1 - [Ajax подгрузка постов из рубрик во фронт-энд](https://youtu.be/cLwC91Zx024)
+- Пример 2 - [Виджет с заметками в админке WordPress при помощи ajax](https://youtu.be/H7h8a2ZWVKE)
