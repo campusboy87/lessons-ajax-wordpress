@@ -62,7 +62,7 @@ function my_notes_scripts() {
 	global $screen;
 	
 	// Если это не главная страница админки - прекращаем выполнение функции
-	if ( 'dashboard' != $screen->base ) {
+	if ( empty( $screen->base ) && 'dashboard' != $screen->base ) {
 		return;
 	}
 	?>
